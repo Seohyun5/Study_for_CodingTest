@@ -8,5 +8,5 @@ public class Main {
         String str = br.readLine();
         int ans = (int)str.charAt(0);
         System.out.println(ans);
-	  }
+    }
 }
